@@ -1,15 +1,30 @@
 {
   "name": "your-habit-tracker-",
   "version": "1.0.0",
-  "description": "",
+  "description": "Wether you want to get more excersise or read more, Your Habit\r Tracker is the perfect tool to help kickstart your Journey to\r becoming a better version of yourself.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Zach, Scott, Reynaldo",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bootstrap": "^5.2.3",
+    "connect-session-sequelize": "^7.1.6",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "sequelize": "^6.31.0"
+    "express-session": "^1.17.3",
+    "mysql2": "^3.2.4",
+    "sequelize": "^6.31.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Your-Habit-Tracker"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "prettier": "^2.8.8"
   }
 }

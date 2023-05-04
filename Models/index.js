@@ -1,3 +1,12 @@
 const User = require('./User');
+const Category = require('./Category');
+const Habit = require('./Habit');
 
-module.exports = { User };
+Habit.belongsTo(Category);
+Category.hasMany(Habit);
+
+module.exports = { 
+    User, 
+    Category, 
+    Habit,
+};

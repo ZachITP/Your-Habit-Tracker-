@@ -6,12 +6,16 @@ router.get('/', withAuth, async (req, res) => {
   try {
     const userData = await User.findAll({
       attributes: { exclude: ['password'] },
-      order: [['name', 'ASC']],
+      order: [
+        ['lastName', 'ASC'],
+        ['firstName', 'ASC']
+      ],
     });
-
+    //TODO: replace with data we want to show on our home page
     const users = userData.map((project) => project.get({ plain: true }));
 
-    res.render('homepage', {
+    res.render('home', {
+      layout: "main",
       users,
       logged_in: req.session.logged_in,
     });

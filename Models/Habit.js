@@ -25,6 +25,11 @@ Habit.init(
                 model: 'Category',
                 key: 'id',
             },
+            sequelize,
+            timestamps: false,
+            freezeTableName: true,
+            underscored: true,
+            modelName: 'Habit',
         },
     }
   );

@@ -14,11 +14,16 @@ becoming a better version of yourself.
 
 ## Usage
 
+
 ## Technologies Used
 
 HTML,
 CSS,
 JavaScript,
+bcrypt,
+.env,
+sequelize,
+express-session
 
 ## Credits
 

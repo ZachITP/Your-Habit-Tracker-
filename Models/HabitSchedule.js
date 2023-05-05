@@ -1,12 +1,12 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
-class Habit extends Model {}
+class HabitSchedule extends Model {}
   
-Habit.init(
+HabitSchedule.init(
     {
 
     }
   );
 
-  module.exports = Habit;
+  module.exports = HabitSchedule;

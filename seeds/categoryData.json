@@ -1,17 +1,14 @@
 [
     {
-
+      "id": "13579",
+      "category_name": "Emotional Wellness"
     },
     {
-
+      "id": "56789",
+      "category_name": "Intellectual Wellness"
     },
     {
-
-    },
-    {
-
-    },
-    {
-
+      "id": "35746",
+      "category_name": "Physical Wellbeing and Fitness"
     }
   ]

@@ -25,6 +25,11 @@ HabitSchedule.init({
       model: "Users",
       key: "Id",
     },
+    sequelize,
+    timestamps: false,
+    freezeTableName: true,
+    underscored: true,
+    modelName: 'HabitSchedule',
   },
 });
 

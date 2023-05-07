@@ -10,34 +10,31 @@ Habit.init(
             allowNull: false,
             primaryKey: true,
         },
-        name: {
+            name:{
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull:false,
         },
         description: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull:false,
         },
         category_ID: {
             type: DataTypes.INTEGER,
-            allowNull: false,
-            references : {
+            allowNull:false,
+            references: {
                 model: 'Category',
                 key: 'id',
             },
+        },
+    },
+
+      {
             sequelize,
             timestamps: false,
             freezeTableName: true,
             underscored: true,
             modelName: 'Habit',
-        },
-    }
+        }
   );
 
   module.exports = Habit;
-
-  {
-    {
-
-    },
-  }

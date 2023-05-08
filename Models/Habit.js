@@ -5,6 +5,7 @@ class Habit extends Model {}
   
 Habit.init(
     {
+        
         id: {
             type: DataTypes.INTEGER,
             allowNull: false,

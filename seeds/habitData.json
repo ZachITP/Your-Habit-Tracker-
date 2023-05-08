@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 123,
         "name": "Meditation",
@@ -26,8 +26,7 @@
     {
         "id": 654,
         "name": "Proper Hrdration",
-        "Description": "Making sure your body has all the fluids it needs to function properly
-        15.5 cups per day for Men and 11.5 cups per day for Wemon",
+        "Description": "Making sure your body has all the fluids it needs to function properly 15.5 cups per day for Men and 11.5 cups per day for Wemon",
         "category_ID": "56789"
     },
     {
@@ -53,5 +52,5 @@
         "name": "Stretching",
         "Description": "is a form of physical exercise in which a specific muscle or tendon (or muscle group) is deliberately flexed or stretched in order to improve the muscle's felt elasticity and achieve comfortable muscle tone.[1] The result is a feeling of increased muscle control, flexibility, and range of motion. Stretching is also used therapeutically to alleviate cramps and to improve function in daily activities by increasing range of motion",
         "category_ID": "35746"
-    },
-}
+    }
+]    

@@ -1,14 +1,15 @@
 {
   "name": "project-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Wether you want to get more excersise or read more, Your Habit\r Tracker is the perfect tool to help kickstart your Journey to\r becoming a better version of yourself.",
   "main": "index.js",
   "scripts": {
     "seed": "node ./seeds/seed.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "Reynaldo Velez",
-  "license": "None",
+  "author": "Zach Hanson",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-session-sequelize": "^7.1.6",

@@ -3,7 +3,8 @@ const sequelize = require("../config/connection");
 
 class HabitSchedule extends Model {}
 
-HabitSchedule.init({
+HabitSchedule.init(
+  {
   day: {
     type: DataTypes.STRING,
     allowNull: false,
@@ -25,12 +26,15 @@ HabitSchedule.init({
       model: "Users",
       key: "Id",
     },
+  },
+},
+  {
     sequelize,
     timestamps: false,
     freezeTableName: true,
     underscored: true,
     modelName: 'HabitSchedule',
-  },
-});
+    }
+);
 
 module.exports = HabitSchedule;

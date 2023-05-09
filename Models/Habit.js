@@ -27,7 +27,6 @@ Habit.init(
       },
     },
   },
-
   {
     sequelize,
     timestamps: false,

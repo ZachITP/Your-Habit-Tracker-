@@ -3,8 +3,13 @@ const Category = require('./Category');
 const Habit = require('./Habit');
 const HabitSchedule = require('./HabitSchedule');
 
-Habit.belongsTo(Category);
-Category.hasMany(Habit);
+Habit.belongsTo(Category,{
+    foreignKey: 'category_ID',
+});
+
+Category.hasMany(Habit,{
+    foreignKey: 'category_ID',
+});
 
 HabitSchedule.belongsTo(User);
 User.hasMany(HabitSchedule);

@@ -10,20 +10,14 @@
   </style>
 </head>
 <body>
-<div class="card m-5" style="height: 18rem;">
-  <div class="card-body">
 
-  </div>
-</div>
-<div class="card m-5" style="height: 18rem;">
-  <div class="card-body">
-    
-  </div>
-</div>
-<div class="card m-5" style="height: 18rem;">
-  <div class="card-body">
-    
-  </div>
+{{#each category.habits as |habit|}}
+{{> habit-partials}}
+{{/each}}
+
 </div>
 </body>
 </html>
+
+
+

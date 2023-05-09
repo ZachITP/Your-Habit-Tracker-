@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Zach Hanson",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",

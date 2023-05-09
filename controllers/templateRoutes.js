@@ -14,8 +14,8 @@ router.get('/', withAuth, async (req, res) => {
     
     const users = userData.map((project) => project.get({ plain: true }));
 
-    res.render('home', {
-      layout: "main",
+    res.render('day', {
+      layout: "home",
       users,
       logged_in: req.session.logged_in,
     });
@@ -30,7 +30,9 @@ router.get('/login', (req, res) => {
     return;
   }
 
-  res.render('login');
+  res.render('login', {
+    layout: "main",
+  });
 });
 
 module.exports = router;

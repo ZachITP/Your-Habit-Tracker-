@@ -1,4 +1,4 @@
-# Your Habit Tracker
+# Habit Tracker
 
 #### By Zach Hanson, Scott Bossard & Reynaldo Velez
 
@@ -8,30 +8,61 @@ Wether you want to get more excersise or read more, Your Habit
 Tracker is the perfect tool to help kickstart your Journey to
 becoming a better version of yourself.
 
+## Tools Used
+
+- JavaScript
+- CSS
+- Handlebars
+- partials (From Handlebars)
+- Node.js
+- Express
+- Express-Handlebars
+- MySQL2
+- Sequelize
+- Dotenv
+- Heroku
+
+# Table of Contents
+
+- [Installation & Database SetUp](#Installation)
+- [Photos](#photos)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [website](#website)
+- [License](#license)
+-
+
+# Installation & Database SetUp
+
+- To use this app npm init has to be called to create your package.json file.
+- The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
+- To properly install the database you must install MySQL on your computer, create an profile in which you have a root and a password.
+- In your command line you must type mysql -u root -p and then enter, type your password that you created on MySQL on the following line.
+- To finally add the database you must do the following: source db/schema.sql then enter.
+- Run "npm run seeds" on command line
+- Run "npm start" for the port to start listening.
+- If on Heroku, all you have to do is login.
+
+## Photos
+
 <img src="./Assets/png" alt="" title="">
 <img src="./Assets/png" alt="" title="">
 <img src="./Assets/png" alt="" title="">
 
 ## Usage
 
-## Technologies Used
+## Contributing
 
-HTML,
-CSS,
-JavaScript,
-
-## Credits
+Reynaldo Velez https://github.com/Palejrey
+Scott Bossard https://github.com/sjbossa
+Zach Hanson https://github.com/ZachITP
 
 ## website
 
-Check it out for yourself! https://zachitp.github.io/Your-Habit-Tracker-/
+Check out the project repository https://zachitp.github.io/Your-Habit-Tracker-/
+
+checkout the deployed site https://your-habit-tracker.herokuapp.com/login
 
 ## License
 
-MIT Copyright (c) Zach Hanson
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)

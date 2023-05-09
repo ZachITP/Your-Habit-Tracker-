@@ -11,7 +11,7 @@ router.get('/', withAuth, async (req, res) => {
         ['firstName', 'ASC']
       ],
     });
-    //TODO: replace with data we want to show on our home page
+    
     const users = userData.map((project) => project.get({ plain: true }));
 
     res.render('home', {

@@ -35,4 +35,10 @@ router.get('/login', (req, res) => {
   });
 });
 
+router.get('/habit', (req, res) => {
+  
+res.render('habit', {
+  layout: "home",
+  });
+});
 module.exports = router;

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg9798"
+    sodipodi:docname="Gartus_Man_with_book.svg"
+    inkscape:export-filename="/home/joanna/gfx/vector/Gartus_Man_with_book_ok.png"
+    viewBox="0 0 70.657 94.177"
+    sodipodi:version="0.32"
+    inkscape:export-xdpi="191.06293"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:export-ydpi="191.06293"
+    inkscape:version="0.46"
+  >
+  <defs
+      id="defs9800"
+    >
+    <filter
+        id="filter4181"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur4183"
+          stdDeviation="2.1898459"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter3319"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3321"
+          stdDeviation="2.2751042"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <linearGradient
+        id="linearGradient3655"
+      >
+      <stop
+          id="stop3657"
+          style="stop-color:#ffffff"
+          offset="0"
+      />
+      <stop
+          id="stop3659"
+          style="stop-color:#ffffff;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient9877"
+        y2="325.73"
+        xlink:href="#linearGradient3655"
+        gradientUnits="userSpaceOnUse"
+        x2="480.49"
+        y1="417.11"
+        x1="480.49"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2443"
+        y2="546.16"
+        xlink:href="#linearGradient3655"
+        gradientUnits="userSpaceOnUse"
+        x2="245.31"
+        gradientTransform="matrix(.32529 0 0 .37586 292.25 358.55)"
+        y1="461.14"
+        x1="245.31"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2464"
+        y2="278.41"
+        xlink:href="#linearGradient3655"
+        gradientUnits="userSpaceOnUse"
+        x2="39.95"
+        gradientTransform="matrix(-.30455 .014726 .018596 .38458 411.7 427.77)"
+        y1="283.6"
+        x1="87.645"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2467"
+        y2="278.41"
+        xlink:href="#linearGradient3655"
+        gradientUnits="userSpaceOnUse"
+        x2="39.95"
+        gradientTransform="matrix(.30455 .014726 -.018596 .38458 332.44 427.77)"
+        y1="283.6"
+        x1="87.645"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:window-height="724"
+      inkscape:zoom="2.6705127"
+      objecttolerance="10"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="35.328674"
+      inkscape:cy="47.088337"
+      inkscape:window-y="0"
+      inkscape:window-x="0"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-336.72 -479.09)"
+    >
+    <path
+        id="path4042"
+        sodipodi:nodetypes="ccccczc"
+        style="fill:#1c2224"
+        d="m394.79 516.87l-7.66 1.9 3.19 28.64 4.46 11.47 9.78 2.07s3.44-1.15 2.71-7.38-12.48-36.7-12.48-36.7z"
+    />
+    <path
+        id="rect3231"
+        sodipodi:nodetypes="ccccczc"
+        style="fill:#1c2224"
+        d="m349.31 516.89l7.66 1.9-3.19 28.64-4.47 11.47-9.78 2.06s-3.44-1.15-2.71-7.37c0.73-6.23 12.49-36.7 12.49-36.7z"
+    />
+    <path
+        id="path4044"
+        sodipodi:nodetypes="ccccczc"
+        style="fill:url(#linearGradient2467)"
+        d="m350.44 516.8l3.41 2.3-7.81 29-3.58 10.02-1.88 2.33s-2.66-1.28-1.78-7.47c0.87-6.2 11.64-36.18 11.64-36.18z"
+    />
+    <path
+        id="path3450"
+        sodipodi:nodetypes="ccccczc"
+        style="fill:url(#linearGradient2464)"
+        d="m393.69 516.8l-3.41 2.3 7.81 29 3.59 10.02 1.87 2.33s2.67-1.28 1.79-7.47c-0.88-6.2-11.65-36.18-11.65-36.18z"
+    />
+    <path
+        id="path4167"
+        sodipodi:nodetypes="ccccccccccccccc"
+        style="filter:url(#filter4181);fill:#000000"
+        transform="matrix(.36692 0 0 .38144 321.38 432.99)"
+        d="m59.93 126.87c-2.197 0.02-3.726 1.73-3.75 4.54l-1.031 124.98c-0.031 3.75 2.655 8 6.031 9.54l68.29 50.2 18.83-6.3 68.35-43.9c3.38-1.54 6.06-5.79 6.03-9.54l-1.03-124.98c-0.03-3.74-2.78-5.52-6.16-3.98l-75.65 34.63c-0.32 0.14-0.64 0.31-0.94 0.5-0.3-0.18-0.59-0.36-0.91-0.5l-75.653-34.63c-0.844-0.38-1.674-0.57-2.407-0.56z"
+    />
+    <path
+        id="rect3212"
+        sodipodi:nodetypes="ccccccccccccccc"
+        style="fill:#484537"
+        d="m341.94 479.09c-0.84 0.01-1.43 0.67-1.44 1.75l-0.4 48.12c-0.01 1.45 1.02 3.08 2.32 3.68l26.3 12.03h7.25l26.31-12.03c1.3-0.6 2.34-2.23 2.33-3.68l-0.4-48.12c-0.01-1.44-1.07-2.12-2.37-1.53l-29.13 13.33c-0.12 0.06-0.25 0.12-0.36 0.2-0.12-0.07-0.23-0.14-0.35-0.2l-29.13-13.33c-0.33-0.15-0.65-0.22-0.93-0.22z"
+    />
+    <rect
+        id="rect3325"
+        style="fill:#484537"
+        ry="3.4319"
+        height="50.481"
+        width="9.8539"
+        y="494.95"
+        x="367.42"
+    />
+    <path
+        id="path3293"
+        d="m164.46 277.92c-1.98 0.02-3.4 1.58-3.42 4.1l-0.91 112.11c-0.03 3.36 2.39 7.17 5.43 8.55l67.69 30.88c0.62 0.5 1.39 0.71 2.28 0.66 0.93 0.05 1.75-0.16 2.38-0.69 0.01-0.01 0.02-0.03 0.03-0.04l67.59-30.81c3.04-1.38 5.46-5.19 5.43-8.55l-0.94-112.11c-0.03-3.36-2.49-4.96-5.53-3.57l-68.11 31.04c-0.8 0.6-0.89 0.17-1.66 0l-68.15-31.04c-0.76-0.35-1.45-0.54-2.11-0.53z"
+        sodipodi:nodetypes="ccccccsccccccccc"
+        style="filter:url(#filter3319);fill:#000000"
+        transform="matrix(.41301 0 0 .39875 275.07 369.92)"
+    />
+    <path
+        id="path3346"
+        sodipodi:nodetypes="ccccccccccccccc"
+        style="fill:#b1a262"
+        d="m344.33 481.82c-0.78 0.01-1.34 0.61-1.35 1.6l-0.36 43.89c-0.01 1.31 0.95 2.8 2.15 3.34l26.69 12.09c0.38 0.24 1.46 0.26 1.83-0.01 0.01 0 0.01-0.01 0.02-0.01l26.65-12.07c1.2-0.54 2.15-2.03 2.14-3.34l-0.37-43.89c-0.01-1.31-0.99-1.94-2.18-1.4l-26.86 12.15c-0.31 0.24-0.35 0.07-0.66 0l-26.86-12.15c-0.3-0.13-0.58-0.21-0.84-0.2z"
+    />
+    <path
+        id="rect3183"
+        sodipodi:nodetypes="ccccccsccccccccc"
+        style="fill:#ded19f"
+        d="m347.1 483.05c-0.7 0.01-1.2 0.58-1.21 1.49l-0.32 40.47c-0.01 1.22 0.85 2.61 1.93 3.11l24.05 11.23c0.21 0.18 0.49 0.26 0.81 0.24 0.32 0.02 0.62-0.06 0.84-0.25l0.01-0.01 24.02-11.21c1.08-0.5 1.94-1.89 1.93-3.11l-0.34-40.47c-0.01-1.22-0.88-1.8-1.96-1.3l-24.2 10.99c-0.28 0.22-0.32 0.07-0.59 0l-24.21-10.99c-0.27-0.12-0.52-0.19-0.76-0.19z"
+    />
+    <rect
+        id="rect3348"
+        style="fill:#000000"
+        ry="0"
+        height="48.793"
+        width=".24932"
+        y="494.14"
+        x="372.24"
+    />
+    <flowRoot
+        id="flowRoot3603"
+        xml:space="preserve"
+        style="font-size:40px;font-family:Bitstream Vera Sans;fill:#000000"
+        transform="matrix(.032248 .015308 0 .050825 330.72 470.41)"
+      >
+      <flowRegion
+          id="flowRegion3605"
+        >
+        <rect
+            id="rect3607"
+            y="98.751"
+            width="711.89"
+            x="512.92"
+            height="872.55"
+        />
+      </flowRegion
+      >
+      <flowPara
+          id="flowPara3609"
+        >    Здравствуй мой любимый город! Здравствуй медная луна! Я сижу на крыше старой ветхой девятиэтажки. Стены её давно пахнут сыростью и гнилью. В подъездах облупилась краска, бетон обильно заплёван, а стены украшают наскальные первобытные рисунки. Но по большому счёту мне нет дела до того, что внутри этой коробки, мне нужна её крыша, я хочу быть ближе к луне и звёздам.</flowPara
+      >
+      <flowPara
+          id="flowPara3611"
+        >    Эта прохладная зимняя ночь такая же как все остальные. Из моего рта обильными струями идёт пар, лицо покраснело и замёрзло, мои зубы выдают ритмичный стук. </flowPara
+      >
+    </flowRoot
+    >
+    <flowRoot
+        id="flowRoot3623"
+        xml:space="preserve"
+        style="font-size:40px;font-family:Bitstream Vera Sans;fill:#000000"
+        transform="matrix(.040351 -.018823 0 .051197 355.1 491.88)"
+      >
+      <flowRegion
+          id="flowRegion3625"
+        >
+        <rect
+            id="rect3627"
+            y="216.52"
+            width="589.89"
+            x="479.41"
+            height="871.28"
+        />
+      </flowRegion
+      >
+      <flowPara
+          id="flowPara3629"
+        >    Что делать на крыше ночью? Это странный вопрос, это своего рода маленькая радость. Каждый болеет по-своему. А я люблю наблюдать, как спит мой город. </flowPara
+      >
+      <flowPara
+          id="flowPara3631"
+        >     По узким улочкам с диким рёвом проносятся автомобили – это похоже на дикий храп крепко спящего зверя. Одинокие точки быстро и медленно двигаются по улицам. Кто-то спешит домой, кому-то уже некуда спешить. У каждого есть своя цель. Я закурил и перевёл свой взгляд на коробку, стоявшую рядом с моей. В ней  сонными глазами светились одинокие окна. Кто-то ещё не ложился. Такое бывает по разным причинам: они, не успев всё сделать на роботе, кипят над ней дома. Представляю себе эту картину: среднестатистический он или она сидит за столом и что-то считает, пишет, стол заставлен кучей чашек с недопитым кофе и пепельницей, с кучей окурков, его или её глаза уже слипаются от усталости, а мягкая кровать со свежим, недавно постиранным бельём так и манит лечь на себя, закутаться в тёплое одеяло и  крепко уснуть.</flowPara
+      >
+    </flowRoot
+    >
+    <path
+        id="path3687"
+        sodipodi:nodetypes="cccsscczccsscc"
+        style="fill-rule:evenodd;stroke:#1c2224;stroke-width:.38503px;fill:#1c2224"
+        d="m372.05 523.28v0.01l-8.25 0.67s-1.45 10.68-5.9 15.33c-4.44 4.65-12.36 1.7-16.34 6.38-2.83 3.34-3.71 9.46-3.98 12.82l2.05 6.91s6.52 7.68 32.42 7.68c26.19 0 32.43-7.7 32.43-7.7l2.04-6.9c-0.27-3.36-1.14-9.49-3.98-12.82-3.98-4.69-11.89-1.73-16.34-6.38-4.44-4.65-5.89-15.33-5.89-15.33l-8.26-0.67z"
+    />
+    <path
+        id="path4136"
+        sodipodi:nodetypes="csssczcsssscccc"
+        style="fill-rule:evenodd;fill:url(#linearGradient2443)"
+        d="m362.51 536.63c-0.09 0.01-0.61 0.43-3.43 3.84-3.75 4.54-15.26 1.66-18.62 6.23-1.1 1.49-1.35 4.36-2.16 6.84-0.8 2.47 1.18 4.23 1.18 4.23 10.83 0 18.71 4.62 32.5 4.62 13.78 0 21.67-4.62 32.5-4.62 0 0 1.98-1.76 1.18-4.23-0.81-2.48-1.06-5.35-2.16-6.84-3.36-4.57-14.87-1.69-18.62-6.23-2.82-3.41-3.34-3.83-3.43-3.84-0.03 0-0.01 0.05-0.01 0.05s-1.96 4.11-9.46 4.11-9.46-4.11-9.46-4.11 0.02-0.05-0.01-0.05z"
+    />
+    <path
+        id="path3637"
+        sodipodi:rx="50.849434"
+        sodipodi:ry="61.903656"
+        style="fill:#1c2224"
+        sodipodi:type="arc"
+        d="m486.39 400.9a50.849 61.904 0 1 1 -101.7 0 50.849 61.904 0 1 1 101.7 0z"
+        transform="matrix(.33461 0 0 .33461 226.62 384.28)"
+        sodipodi:cy="400.89987"
+        sodipodi:cx="435.53644"
+    />
+    <path
+        id="path3653"
+        sodipodi:rx="35.37352"
+        sodipodi:ry="45.690796"
+        style="opacity:0.88;fill:url(#linearGradient9877)"
+        sodipodi:type="arc"
+        d="m515.86 371.42a35.374 45.691 0 1 1 -70.74 0 35.374 45.691 0 1 1 70.74 0z"
+        transform="matrix(-.38164 0 0 -.24467 555.73 600.6)"
+        sodipodi:cy="371.42194"
+        sodipodi:cx="480.4903"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Man with book</dc:title
+        >
+        <dc:date
+          >2006-12-26T00:00:00</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/24939/-by--24939</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Gartus</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

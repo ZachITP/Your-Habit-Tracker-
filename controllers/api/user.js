@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { User } = require('../../Models');
+const { User} = require('../../Models');
 
 router.post('/login', async (req, res) => {
   try {
@@ -42,6 +42,7 @@ router.post('/logout', (req, res) => {
     res.status(404).end();
   }
 });
+
 
 module.exports = router;
 

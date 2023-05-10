@@ -3,54 +3,55 @@
         "id": 123,
         "name": "Meditation",
         "description": "a practice that involves focusing or clearing your mind using a combination of mental and physical techniques.",
-        "category_ID": "13579"
+        "category_ID": 13579
     },
     {
         "id": 455,
         "name": "Therapy",
         "description": "treatment intended to relieve or heal an injury or disorder",
-        "category_ID": "13579"
+        "category_ID": 13579
     },
     {
         "id": 789,
         "name": "Spending time with loved ones",
         "description": "take time to embrace the ones that you are closest to",
-        "category_ID": "13579"
+        "category_ID": 13579
     },
     {
         "id": 987,
-        "namee": "Reading",
-        "Description": "take time for yourself and get lost in the pages of a good book",
-        "category_ID": "56789"
+        "name": "Reading",
+        "description": "take time for yourself and get lost in the pages of a good book",
+        "category_ID": 56789
     },
     {
         "id": 654,
-        "name": "Proper Hrdration",
-        "Description": "Making sure your body has all the fluids it needs to function properly 15.5 cups per day for Men and 11.5 cups per day for Wemon",
-        "category_ID": "56789"
+        "name": "Proper Hyrdration",
+        "description": "Making sure your body has all the fluids it needs to function properly 15.5 cups per day for Men and 11.5 cups per day for Women",
+        "category_ID": 56789
     },
     {
         "id": 321,
         "name": "Proper sleep",
-        "Description": "Experts recommend you sleep between 7-9 hours a night",
-        "category_ID": "56789"
+        "description": "Experts recommend you sleep between 7-9 hours a night",
+        "category_ID": 56789
     },
     {
         "id": 932,
         "name": "Eating Clean",
-        "Description": "A clean diet may include whole fruits, vegetables, lean proteins, whole grains, and healthy fats while limiting highly processed snacks and other packaged foods with added sugar and salt. It may also be associated with terms like plant-based, grass-fed, sugar-free, or gluten-free.",
-        "category_ID": "35746"
+        "description": "hi",
+        "category_ID": 35746
     },
     {
         "id": 894,
         "name": "Engaging in physical activity",
-        "Description": "Any bodily movement that is produced by the contraction of skeletal muscle and that substantially increases energy expenditure.",
-        "category_ID": "35746"
+        "description": "Any bodily movement that is produced by the contraction of skeletal muscle and that substantially increases energy expenditure.",
+        "category_ID": 35746
     },
     {
         "id": 764,
         "name": "Stretching",
-        "Description": "is a form of physical exercise in which a specific muscle or tendon (or muscle group) is deliberately flexed or stretched in order to improve the muscle's felt elasticity and achieve comfortable muscle tone.[1] The result is a feeling of increased muscle control, flexibility, and range of motion. Stretching is also used therapeutically to alleviate cramps and to improve function in daily activities by increasing range of motion",
-        "category_ID": "35746"
+        "description": "yo",
+        "category_ID": 35746
     }
 ]    
+ 

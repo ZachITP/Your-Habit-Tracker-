@@ -1,21 +1,12 @@
-const habitNav = async (event) => {
-    event.preventDefault();
+const habitEW = async => () {
+  const response = await fetch('/api/users/habit/:id',{
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+  });
 
-const response = await fetch("/habit", {
-    method: "GET",
-});
+  if(response.ok) {
+    document.location.replace('/habit')
+  }
 };
 
-document
-    .querySelector('#E_W')
-    .addEventListener('click', habitNav);
-
-    
-document
-    .querySelector('#I_W')
-    .addEventListener('click', habitNav);
-
-    
-document
-    .querySelector('#P_W_N')
-    .addEventListener('click', habitNav);
+document.querySelector('#EW').addEventListener('click', habitEW);

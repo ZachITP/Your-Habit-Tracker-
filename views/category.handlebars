@@ -11,8 +11,8 @@
 </head>
 <body>
  <div style=" margin: 10px; padding: 5%; display:flex; align-items: center;  flex-direction: column;">
-  {{#each categories.Habits as |Habit|}}
-  {{> habit-partials}}
+  {{#each categories as |category|}}
+  {{> category-partials}}
   {{/each}}
 </div> 
 

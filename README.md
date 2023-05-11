@@ -26,11 +26,9 @@ becoming a better version of yourself.
 
 - [Installation & Database SetUp](#Installation)
 - [Photos](#photos)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [website](#website)
 - [License](#license)
--
 
 # Installation & Database SetUp
 
@@ -45,17 +43,15 @@ becoming a better version of yourself.
 
 ## Photos
 
-<img src="./Assets/png" alt="" title="">
-<img src="./Assets/png" alt="" title="">
-<img src="./Assets/png" alt="" title="">
-
-## Usage
+<img src="./Assets/login.png" alt="login" title="login">
+<img src="./Assets/dropdown.png" alt="dropdown" title="dropdown">
+<img src="./Assets/options.png" alt="options" title="options">
 
 ## Contributing
 
-Reynaldo Velez https://github.com/Palejrey
-Scott Bossard https://github.com/sjbossa
-Zach Hanson https://github.com/ZachITP
+- Reynaldo Velez https://github.com/Palejrey
+- Scott Bossard https://github.com/sjbossa
+- Zach Hanson https://github.com/ZachITP
 
 ## website
 
